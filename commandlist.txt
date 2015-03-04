@@ -1,0 +1,8 @@
+{"method" : "listKeys"}
+{"method" : "listIDs"}
+{"method" : "insertOrUpdate", "params" : ["Tilak", "Mohan", {"label" : "6"}]}
+{"method" : "insert", "params" : ["Tilak", "Mohan", {"label" : "7"}]}
+{"method" : "lookup", "params" : ["Tilak", "Mohan"]}
+{"method" : "delete", "params" : ["Tilak", "Mohan"]}
+{"method" : "shutdown"}
+exit

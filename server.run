@@ -1,0 +1,4 @@
+chmod 0777 *
+cp original.txt PSC.txt
+go build RPCServer.go
+./RPCServer ServerConfig.json
